@@ -1,22 +1,21 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Sanjay</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/muhammadhilmiarsyad/">Muhammad Hilmi Arsyad</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="http://sanjaykv.com/">Portfolios</a> -
-  <a href="https://www.linkedin.com/in/sanjay-k-v/">LinkedIn</a> - 
-  <a href="https://x.com/sanjay_kv_">Twitter</a> -
-  <a href="https://recodehive.com/">Website</a> -
-  <a href="https://crowdsource.google.com/about/blog/community-spotlight-friendship/">Google Featured</a> -
-  <a href="https://topmate.io/sanjaykv/">Contact me.</a> 
+  <a href="https://www.linkedin.com/in/muhammadhilmiarsyad/">LinkedIn</a> - 
+  <a href="https://x.com/muhammadhilmiarsyad">Twitter</a> -
+  <a href="https://muhammadhilmi007.github.io/portofolio.github.io/">Website</a> -
+  <a href="https://topmate.io/muhammadhilmiarsyad/">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Data Engineer | Prev. PM @girlscript <br>
-⚡ Check my ✨ [Website](https://recodehive.com/) or 🌱 [eBook](https://learn.recodehive.com/datascience)<br>
-📫 How to reach me: [Schedule Call](https://topmate.io/sanjaykv) or Join  [Newsletter](https://recodehive.substack.com/)<br>
-👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
-💬 Ask me about SEO/Data Science.<br>
+✨ Fullstack Developer | Prev. PM @girlscript <br>
+⚡ Check my ✨ [Website](https://muhammadhilmi007.github.io/portofolio.github.io/) 🌱 <br>
+📫 How to reach me: [Schedule Call](https://topmate.io/muhammadhilmiarsyad) or Join  [Newsletter](https://raventeknologi.com/)<br>
+👯 Join my opensource community[recodehive](https://github.com/muhammadhilmi007/)<br>
+💬 Ask me about Digital Marketing and Web Development.<br>
 <!--- Adding Tech Stack open Section -->
 
 
@@ -44,7 +43,6 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
 <a href="#">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
@@ -62,7 +60,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <b>📝 Curated Articles</b>
 <br>
 
-I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://recodehive.com/github-tutorials/)
+I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://raventeknologi.com/)
 <br>
  Below are the few trending posts.👇<br>
   📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
@@ -74,9 +72,9 @@ I write regular blog posts, most of which you will find on my personal website [
 
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<a href="https://github.com/muhammadhilmiarsyad007">
+   <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Muhammad Hilmi" />
+    <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Muhammad Hilmi" />
 <br>
      
 
@@ -134,7 +132,7 @@ Sunday                   789 commits         ████░░░░░░░�
 💬 Programming Languages: 
 JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
 CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Node JS                  1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
