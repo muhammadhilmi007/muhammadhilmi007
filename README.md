@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="http://sanjaykv.com/">Portfolios</a> -
+  <a href="https://muhammadhilmi007.github.io/portofolio.github.io/">Portfolios</a> -
   <a href="https://www.linkedin.com/in/muhammadhilmiarsyad/">LinkedIn</a> - 
   <a href="https://x.com/muhammadhilmiarsyad">Twitter</a> -
   <a href="https://muhammadhilmi007.github.io/portofolio.github.io/">Website</a> -
@@ -55,51 +55,12 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </div>
 </details> 
 
-
-<!--- 1st Section on Curated Articles -->
-<b>📝 Curated Articles</b>
-<br>
-
-I write regular blog posts, most of which you will find on my personal website [<re/code> hive](https://raventeknologi.com/)
-<br>
- Below are the few trending posts.👇<br>
-  📘 [GitHub Cheat sheet | Complete Tutorials.](https://recodehive.com/github-tutorials/)<br>
-  📒 [Create a report using Google Data Studio](https://recodehive.com/create-report-using-google-data-studio/)<br>
-  📙 [Develop Google Assistant App from Scratch](https://recodehive.com/how-to-create-app-for-google-assistant/)<br>
-➡️ [more blog posts...](https://recodehive.com/)
-
-<!--- 2nd Section on GitHub Analytics -->
-
-
   <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/muhammadhilmiarsyad007">
    <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Muhammad Hilmi" />
     <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Muhammad Hilmi" />
 <br>
      
-
-<!--- 3rd Section on Recent Projects -->
-
-  <details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
-
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @Legesher-translations.](https://github.com/sanjay-kv/legesher-translations)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
-  <!--END_SECTION:activity-->
-  </details> 
-
-  <details>	
-    <summary><b>📈 Get my Code stats</b></summary><br>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -162,18 +123,6 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
    </details> 
-
-<!--- Footer Stats - Adding the Social Media Status count-->
- <p align="left">  
-<img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
-<a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
-<a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
-<a href=""><img src="https://discord.com/api/guilds/1262681985885667348/widget.png?style=shield"></a>
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
-<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
-</p>
-
 
 <!--
 <a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
