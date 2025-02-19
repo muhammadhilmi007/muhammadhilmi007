@@ -55,12 +55,6 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </div>
 </details> 
 
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/muhammadhilmiarsyad007">
-   <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Muhammad Hilmi" />
-    <img height="155em" src="https://raw.githubusercontent.com/muhammadhilmiarsyad007/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Muhammad Hilmi" />
-<br>
-     
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
