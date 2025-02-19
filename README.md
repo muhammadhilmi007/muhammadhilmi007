@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Fullstack Developer | Prev. PM @girlscript <br>
+✨ Fullstack Developer <br>
 ⚡ Check my ✨ [Website](https://muhammadhilmi007.github.io/portofolio.github.io/) 🌱 <br>
 📫 How to reach me: [Schedule Call](https://topmate.io/muhammadhilmiarsyad) or Join  [Newsletter](https://raventeknologi.com/)<br>
 👯 Join my opensource community[recodehive](https://github.com/muhammadhilmi007/)<br>
